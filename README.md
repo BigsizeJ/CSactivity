@@ -1,6 +1,6 @@
 # BSCS 1st Year Project Solo
 
-Hi! I'm BigsizeJ. This is the program that i created in my Computer programming subject.
+Hi! I'm Jessie. This is the program that i created in my Computer programming subject.
 i choose to be not in group for a reason that i will know where i left off and know what the code does. i find it more efficient. 
 
 
