@@ -11,7 +11,7 @@ The one is **Age program** what it does is you input your name and your birth da
 
 The second one is **Calculator** it pretty much self explanatory. i create a simple calculator with no GUI just console.
 
-The third one is **Order System** it simulate the order system in fast-food restaurant. the console show the food you can order and you will need to input your money and also ask you to buy a drinks and at last it will return your money subtracted to what you order. it also ask you if it's take out or dine in. there is different approach you can try it or you can copy paste or modify it as you like.
+The third one is **Order System** it simulate the order system in fast-food restaurant. the console show the food you can order and you will need to input your money and also ask you to buy a drinks and at last it will return your money but subtracted it to what you ordered. it also ask you if it's take out or dine in. there is different approach you can try it or you can copy paste or modify it as you like.
 
 The fourth one is **Grading System** it only has 4 subject variable. Math. Filipino. English and Science. you put your grade in those 4 subject and it will calculate your Average grade and convert to College Grading System.
 
